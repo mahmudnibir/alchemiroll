@@ -59,7 +59,7 @@ This project is set up to run directly in the browser with no build step require
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/alchemiroll/alchemiroll.git
+    git clone https://github.com/mahmudnibir/alchemiroll.git
     ```
 
 2.  **Navigate to the directory:**
