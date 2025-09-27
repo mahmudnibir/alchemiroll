@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/your-username/alchemiroll?color=%238478E1&style=for-the-badge">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/your-username/alchemiroll?color=%23F59E0B&style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/github/license/your-username/alchemiroll?color=%234CAF50&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alchemiroll/alchemiroll?color=%238478E1&style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alchemiroll/alchemiroll?color=%23F59E0B&style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/github/license/alchemiroll/alchemiroll?color=%234CAF50&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ This project is set up to run directly in the browser with no build step require
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/alchemiroll.git
+    git clone https://github.com/alchemiroll/alchemiroll.git
     ```
 
 2.  **Navigate to the directory:**
