@@ -1,0 +1,5 @@
+{
+  "name": "React Yahtzee",
+  "description": "A fully functional Yahtzee game built with React and Tailwind CSS. Roll the dice, hold the best ones, and strategically fill your scorecard to get the highest score. Features include a classic scorecard, dice rolling animations, and a clean, modern interface.",
+  "requestFramePermissions": []
+}
