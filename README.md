@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alchemiroll/alchemiroll?color=%238478E1&style=for-the-badge">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alchemiroll/alchemiroll?color=%23F59E0B&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mahmudnibir/alchemiroll?color=%238478E1&style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mahmudnibir/alchemiroll?color=%23F59E0B&style=for-the-badge">
   <img alt="License" src="https://img.shields.io/github/license/mahmudnibir/alchemiroll?color=%234CAF50&style=for-the-badge">
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <!-- Replace with an actual screenshot or GIF of your game -->
-  <img src="https://user-images.githubusercontent.com/assets/your-id/game-screenshot.png" alt="Alchemiroll Gameplay Screenshot" width="800"/>
+  <!-- <img src="https://user-images.githubusercontent.com/assets/your-id/game-screenshot.png" alt="Alchemiroll Gameplay Screenshot" width="800"/> -->
 </p>
 
 ## ✨ What is Alchemiroll?
