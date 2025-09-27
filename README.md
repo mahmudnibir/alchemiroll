@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alchemiroll/alchemiroll?color=%238478E1&style=for-the-badge">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alchemiroll/alchemiroll?color=%23F59E0B&style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/github/license/alchemiroll/alchemiroll?color=%234CAF50&style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/github/license/mahmudnibir/alchemiroll?color=%234CAF50&style=for-the-badge">
 </p>
 
 <p align="center">
